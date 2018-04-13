@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
 <root>
 	<item id="Title"><![CDATA[Discuz! Style]]></item>
 	<item id="Data">
@@ -16,7 +16,7 @@
 			<item id="midtext"><![CDATA[#666]]></item>
 			<item id="lighttext"><![CDATA[#999]]></item>
 			<item id="link"><![CDATA[#333]]></item>
-			<item id="highlightlink"><![CDATA[#369]]></item>
+			<item id="highlightlink"><![CDATA[#006A46]]></item>
 			<item id="noticetext"><![CDATA[#F26C4F]]></item>
 			<item id="bgcolor"><![CDATA[#FFF background.png repeat-x 0 0]]></item>
 			<item id="msgfontsize"><![CDATA[14px]]></item>
